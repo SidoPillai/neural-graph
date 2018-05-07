@@ -26,8 +26,8 @@ images or output sizes, you might need some hyperparameter tuning (especially
 `--content-weight`, `--style-weight`, and `--learning-rate`).
 
 
-[LICENSE.txt][license] for details.
+[LICENSE][license] for details.
 
 [paper]: http://arxiv.org/pdf/1508.06576v2.pdf
 [net]: http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat
-[license]: LICENSE.txt
+[license]: LICENSE
